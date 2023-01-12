@@ -1,0 +1,19 @@
+{
+  "name": "@foxglove/den",
+  "description": "Incubation area for code that may be released under future @foxglove packages",
+  "license": "MPL-2.0",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/foxglove/studio.git"
+  },
+  "author": {
+    "name": "Foxglove Technologies",
+    "email": "support@foxglove.dev"
+  },
+  "homepage": "https://foxglove.dev/",
+  "dependencies": {
+    "async-mutex": "0.4.0",
+    "xacro-parser": "0.3.9"
+  }
+}

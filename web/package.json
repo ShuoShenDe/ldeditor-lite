@@ -1,0 +1,25 @@
+{
+  "name": "web",
+  "private": true,
+  "dependencies": {
+    "@foxglove/studio-base": "workspace:*"
+  },
+  "devDependencies": {
+    "@mui/icons-material": "5.11.0",
+    "@mui/material": "5.4.1",
+    "@pmmmwh/react-refresh-webpack-plugin": "0.5.10",
+    "@sentry/browser": "7.29.0",
+    "@sentry/tracing": "7.29.0",
+    "@sentry/webpack-plugin": "1.20.0",
+    "@types/copy-webpack-plugin": "10.1.0",
+    "clean-webpack-plugin": "4.0.0",
+    "copy-webpack-plugin": "11.0.0",
+    "html-webpack-plugin": "5.5.0",
+    "idb": "7.0.1",
+    "playwright": "1.27.1",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "webpack": "5.74.0",
+    "webpack-dev-server": "4.11.0"
+  }
+}

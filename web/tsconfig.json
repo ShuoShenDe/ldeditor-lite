@@ -1,0 +1,10 @@
+{
+  // "extends": "@foxglove/tsconfig/base",
+  "include": ["*.ts"],
+  "compilerOptions": {
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "noEmit": true,
+    "experimentalDecorators": true
+  }
+}
