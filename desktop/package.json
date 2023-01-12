@@ -1,0 +1,16 @@
+{
+  "name": "desktop",
+  "productName": "ldeditor desktop",
+  "version": "1.0.0",
+  "description": "ldeditor cross-plateforn desktop",
+  "main": "src/index.js",
+  "keywords": [],
+  "author": {
+    "name": "Susan",
+    "email": "shuo.shen@liangdao.de"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "ts-loader": "9.4.2"
+  }
+}
